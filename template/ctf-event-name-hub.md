@@ -22,14 +22,15 @@ modified: %YYYY-MM-DD%
 
 ## 📚 Table of Contents
 
--   [📊 Event Summary & Statistics](#-event-summary--statistics)
--   [Crypto](#-crypto)
--   [Web](#-web)
--   [Pwn](#-pwn)
--   [Rev](#-rev)
--   [Forensics](#-forensics)
--   [Misc](#-misc)
--   [🛠️ Tools & Environment](#️-tools--environment)
+- [📚 Table of Contents](#-table-of-contents)
+- [📊 Event Summary \& Statistics](#-event-summary--statistics)
+- [CRYPTO 🔐](#crypto-)
+- [WEB 🕸️](#web-️)
+- [PWN 👾](#pwn-)
+- [REV 🧩](#rev-)
+- [FORENSICS 🕵️](#forensics-️)
+- [MISC ❓](#misc-)
+- [🛠️ Tools \& Environment](#️-tools--environment)
 
 ---
 
