@@ -6,14 +6,14 @@
 
 ---
 
-type: writeup
-tags: [ctf, web_exploitation, %event_name%]
-status: ✅ Solved / 🛠️ In Progress / ❌ Not Solved
-created: %YYYY-MM-DD%
-modified: %YYYY-MM-DD%
-hub: [[%Link to Event Hub, e.g., PicoCTF 2025%]]
-concepts_learned: []
-snippets_created: []
+type: writeup  
+tags: [ctf, web_exploitation, %event_name%]  
+status: ✅ Solved / 🛠️ In Progress / ❌ Not Solved  
+created: %YYYY-MM-DD%  
+modified: %YYYY-MM-DD%  
+hub: [[%Link to Event Hub, e.g., PicoCTF 2025%]]  
+concepts_learned: []  
+snippets_created: []  
 
 ---
 

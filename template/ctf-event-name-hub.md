@@ -6,11 +6,11 @@
 
 ---
 
-type: hub
-tags: [hub, ctf]
-aliases: [%CTF Event Name%]
-created: %YYYY-MM-DD%
-modified: %YYYY-MM-DD%
+type: hub  
+tags: [hub, ctf]  
+aliases: [%CTF Event Name%]  
+created: %YYYY-MM-DD%  
+modified: %YYYY-MM-DD%  
 
 ---
 
