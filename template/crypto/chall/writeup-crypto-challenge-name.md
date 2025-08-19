@@ -25,25 +25,20 @@ snippets_created: []
 
 ## 📚 Table of Contents
 
--   [📝 Metadata \& Synopsis](#-metadata--synopsis)
-    -   [Challenge Description](#challenge-description)
-    -   [Provided Artifacts](#provided-artifacts)
--   [🤔 Initial Analysis \& Hypothesis](#-initial-analysis--hypothesis)
--   [🔎 Reconnaissance \& Initial Analysis](#-reconnaissance--initial-analysis)
--   [🔓 Exploitation Narrative](#-exploitation-narrative)
-    -   [Stage 1: %Name of The First Step%](#stage-1-name-of-the-first-step)
-    -   [Stage 2: %Name of the Second Step%](#stage-2-name-of-the-second-step)
--   [👨‍💻 Final Exploit](#-final-exploit)
--   [🏁 Flag](#-flag)
--   [🧠 Lessons Learned](#-lessons-learned)
--   [🛡️ Mitigation](#️-mitigation)
--   [🛠️ Markdown Formatting Cheatsheet](#️-markdown-formatting-cheatsheet)
-    -   [Admonitions / Call-outs (GitHub-Friendly)](#admonitions--call-outs-github-friendly)
-    -   [Spoilers / Collapsible Sections](#spoilers--collapsible-sections)
-    -   [Task Lists](#task-lists)
-    -   [Keyboard Keys](#keyboard-keys)
-    -   [Mermaid Diagrams](#mermaid-diagrams)
--   [📖 Sources](#-sources)
+- [📚 Table of Contents](#-table-of-contents)
+- [📝 Metadata \& Synopsis](#-metadata--synopsis)
+  - [Challenge Description](#challenge-description)
+  - [Provided Artifacts](#provided-artifacts)
+- [🤔 Initial Analysis \& Hypothesis](#-initial-analysis--hypothesis)
+- [🔎 Reconnaissance \& Initial Analysis](#-reconnaissance--initial-analysis)
+- [🔓 Exploitation Narrative](#-exploitation-narrative)
+  - [Stage 1: %Name of The First Step%](#stage-1-name-of-the-first-step)
+  - [Stage 2: %Name of the Second Step%](#stage-2-name-of-the-second-step)
+- [👨‍💻 Final Exploit](#-final-exploit)
+- [🏁 Flag](#-flag)
+- [🧠 Lessons Learned](#-lessons-learned)
+- [🛡️ Mitigation](#️-mitigation)
+- [📖 Sources](#-sources)
 
 ---
 
@@ -166,78 +161,6 @@ _How could this vulnerability be fixed in a real-world application?_
 -   **Input Validation**: The server should properly validate and sanitize all input received from the client.
 -   **Using Secure Libraries**: The application should use up-to-date and secure libraries for handling cryptographic operations instead of rolling its own.
 -   **Principle of Least Privilege**: The service should run with the minimum permissions necessary.
-
----
-
-## 🛠️ Markdown Formatting Cheatsheet
-
-_This section is a reference for useful Markdown elements that work on both VS Code (MPE) and GitHub._
-
-### Admonitions / Call-outs (GitHub-Friendly)
-
-GitHub doesn't support the `!!!` syntax, but you can create a similar effect using blockquotes (`>`) with emojis. This is the standard way to make call-outs on GitHub.
-
-> 📝 **Note**
-> This is for neutral, supplementary information.
-
-> 💡 **Tip**
-> Use this for advice, hints, or shortcuts that make a task easier.
-
-> ℹ️ **Info**
-> A general-purpose block for providing extra context or links.
-
-> ⚠️ **Warning**
-> Use this for actions that could have negative consequences or lead to dead ends.
-
-> 🛑 **Danger**
-> This is for actions that are very likely to cause serious problems, like data loss or system crashes.
-
----
-
-### Spoilers / Collapsible Sections
-
-The `<details>` and `<summary>` HTML tags are fully supported by GitHub and are perfect for hiding long code blocks or the final flag.
-
-<details>
-<summary>Click to reveal the flag</summary>
-
-```txt
-ctf{this_is_a_hidden_flag}
-```
-
-</details>
-
----
-
-### Task Lists
-
-GitHub renders checklists, which are great for tracking steps or requirements.
-
--   [x] Step 1: Initial Reconnaissance
--   [x] Step 2: Found the vulnerability
--   [ ] Step 3: Write the final exploit script
-
----
-
-### Keyboard Keys
-
-The `<kbd>` tag is standard HTML and works perfectly on GitHub for formatting keyboard keys.
-
-Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd> to open the developer console.
-
----
-
-### Mermaid Diagrams
-
-GitHub has built-in support for Mermaid.js, so your diagrams will render beautifully.
-
-```mermaid
-graph TD;
-    A[Start] --> B{Does the input get sanitized?};
-    B -->|No| C[Inject Payload];
-    B -->|Yes| D[Find another vulnerability];
-    C --> E[Get Shell];
-```
 
 ---
 
