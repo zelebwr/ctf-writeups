@@ -8,12 +8,12 @@
 
 type: writeup  
 tags: [ctf, pwn, binary_exploitation, %event_name%]  
-status: ✅ Solved / 🛠️ In Progress / ❌ Not Solved  
+status: ✅ Solved / 🛠️ In Progress / ❌ Not Solved / ☑️ Solved After  
 created: %YYYY-MM-DD%  
 modified: %YYYY-MM-DD%  
 hub: [[%Link to Event Hub, e.g., PicoCTF 2025%]]  
 concepts_learned: []  
-snippets_created: []  
+snippets_created: []
 
 ---
 
@@ -25,20 +25,20 @@ snippets_created: []
 
 ## 📚 Table of Contents
 
-- [📚 Table of Contents](#-table-of-contents)
-- [📝 Metadata \& Synopsis](#-metadata--synopsis)
-  - [Challenge Description](#challenge-description)
-  - [Provided Artifacts](#provided-artifacts)
-- [🤔 Initial Analysis \& Hypothesis](#-initial-analysis--hypothesis)
-- [🔎 Reconnaissance \& Initial Analysis](#-reconnaissance--initial-analysis)
-- [🔓 Exploitation Narrative](#-exploitation-narrative)
-  - [Stage 1: %Name of The First Step%](#stage-1-name-of-the-first-step)
-  - [Stage 2: %Name of the Second Step%](#stage-2-name-of-the-second-step)
-- [👨‍💻 Final Exploit](#-final-exploit)
-- [🏁 Flag](#-flag)
-- [🧠 Lessons Learned](#-lessons-learned)
-- [🛡️ Mitigation](#️-mitigation)
-- [📖 Sources](#-sources)
+-   [📚 Table of Contents](#-table-of-contents)
+-   [📝 Metadata \& Synopsis](#-metadata--synopsis)
+    -   [Challenge Description](#challenge-description)
+    -   [Provided Artifacts](#provided-artifacts)
+-   [🤔 Initial Analysis \& Hypothesis](#-initial-analysis--hypothesis)
+-   [🔎 Reconnaissance \& Initial Analysis](#-reconnaissance--initial-analysis)
+-   [🔓 Exploitation Narrative](#-exploitation-narrative)
+    -   [Stage 1: %Name of The First Step%](#stage-1-name-of-the-first-step)
+    -   [Stage 2: %Name of the Second Step%](#stage-2-name-of-the-second-step)
+-   [👨‍💻 Final Exploit](#-final-exploit)
+-   [🏁 Flag](#-flag)
+-   [🧠 Lessons Learned](#-lessons-learned)
+-   [🛡️ Mitigation](#️-mitigation)
+-   [📖 Sources](#-sources)
 
 ---
 
@@ -51,7 +51,7 @@ snippets_created: []
 | **Points**         | `%Points%`                                                           |
 | **Difficulty**     | `%Easy/Medium/Hard%`                                                 |
 | **Challenge Link** | [Link to Challenge](https://play.picoctf.org/practice/challenge/...) |
-| **Status**         | ✅ Solved / 🛠️ In Progress / ❌ Not Solved                           |
+| **Status**         | ✅ Solved / 🛠️ In Progress / ❌ Not Solved / ☑️ Solved After         |
 
 ### Challenge Description
 
