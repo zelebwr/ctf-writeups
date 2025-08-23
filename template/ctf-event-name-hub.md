@@ -10,7 +10,7 @@ type: hub
 tags: [hub, ctf]  
 aliases: [%CTF Event Name%]  
 created: %YYYY-MM-DD%  
-modified: %YYYY-MM-DD%  
+modified: %YYYY-MM-DD%
 
 ---
 
@@ -22,15 +22,15 @@ modified: %YYYY-MM-DD%
 
 ## 📚 Table of Contents
 
-- [📚 Table of Contents](#-table-of-contents)
-- [📊 Event Summary \& Statistics](#-event-summary--statistics)
-- [CRYPTO 🔐](#crypto-)
-- [WEB 🕸️](#web-️)
-- [PWN 👾](#pwn-)
-- [REV 🧩](#rev-)
-- [FORENSICS 🕵️](#forensics-️)
-- [MISC ❓](#misc-)
-- [🛠️ Tools \& Environment](#️-tools--environment)
+-   [📚 Table of Contents](#-table-of-contents)
+-   [📊 Event Summary \& Statistics](#-event-summary--statistics)
+-   [CRYPTO 🔐](#crypto-)
+-   [WEB 🕸️](#web-️)
+-   [PWN 👾](#pwn-)
+-   [REV 🧩](#rev-)
+-   [FORENSICS 🕵️](#forensics-️)
+-   [MISC ❓](#misc-)
+-   [🛠️ Tools \& Environment](#️-tools--environment)
 
 ---
 
@@ -51,11 +51,12 @@ modified: %YYYY-MM-DD%
 
 ## CRYPTO 🔐
 
-| Challenge Title    | Status         | Points | Write-up Link               |
-| :----------------- | :------------- | :----- | :-------------------------- |
-| `%Challenge Name%` | ✅ Solved      | `500`  | [[%Link to Write-up Note%]] |
-| `%Challenge Name%` | 🕒 In Progress | `450`  | [[%Link to Write-up Note%]] |
-| `%Challenge Name%` | ❌ Unsolved    | `500`  | _(No write-up)_             |
+| Challenge Title    | Status          | Points | Write-up Link               |
+| :----------------- | :-------------- | :----- | :-------------------------- |
+| `%Challenge Name%` | ✅ Solved       | `500`  | [[%Link to Write-up Note%]] |
+| `%Challenge Name%` | 🕒 In Progress  | `450`  | [[%Link to Write-up Note%]] |
+| `%Challenge Name%` | ❌ Unsolved     | `500`  | _(No write-up)_             |
+| `%Challenge Name%` | ☑️ Solved After | `500`  | [[%Link to Write-up Note%]] |
 
 ---
 
